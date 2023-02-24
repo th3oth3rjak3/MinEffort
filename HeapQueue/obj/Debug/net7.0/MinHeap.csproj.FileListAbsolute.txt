@@ -1,0 +1,12 @@
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/bin/Debug/net7.0/MinHeap.deps.json
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/bin/Debug/net7.0/MinHeap.dll
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/bin/Debug/net7.0/MinHeap.pdb
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/obj/Debug/net7.0/MinHeap.csproj.AssemblyReference.cache
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/obj/Debug/net7.0/MinHeap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/obj/Debug/net7.0/MinHeap.AssemblyInfoInputs.cache
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/obj/Debug/net7.0/MinHeap.AssemblyInfo.cs
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/obj/Debug/net7.0/MinHeap.csproj.CoreCompileInputs.cache
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/obj/Debug/net7.0/MinHeap.dll
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/obj/Debug/net7.0/refint/MinHeap.dll
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/obj/Debug/net7.0/MinHeap.pdb
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/MinHeap/obj/Debug/net7.0/ref/MinHeap.dll

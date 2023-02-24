@@ -1,0 +1,12 @@
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/bin/Debug/net7.0/HeapQueue.deps.json
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/bin/Debug/net7.0/HeapQueue.dll
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/bin/Debug/net7.0/HeapQueue.pdb
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/obj/Debug/net7.0/HeapQueue.csproj.AssemblyReference.cache
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/obj/Debug/net7.0/HeapQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/obj/Debug/net7.0/HeapQueue.AssemblyInfoInputs.cache
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/obj/Debug/net7.0/HeapQueue.AssemblyInfo.cs
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/obj/Debug/net7.0/HeapQueue.csproj.CoreCompileInputs.cache
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/obj/Debug/net7.0/HeapQueue.dll
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/obj/Debug/net7.0/refint/HeapQueue.dll
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/obj/Debug/net7.0/HeapQueue.pdb
+/Users/Jake/Development/Learning/Dotnet-Learning/MinPuzzle/HeapQueue/obj/Debug/net7.0/ref/HeapQueue.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MinEffortPuzzle/1.0.0": {
+        "dependencies": {
+          "HeapQueue": "1.0.0"
+        },
+        "runtime": {
+          "MinEffortPuzzle.dll": {}
+        }
+      },
+      "HeapQueue/1.0.0": {
+        "runtime": {
+          "HeapQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinEffortPuzzle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HeapQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
