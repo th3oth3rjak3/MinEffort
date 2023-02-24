@@ -11,9 +11,9 @@ consecutive cells.
 
 For example, in the following puzzle, the expected effort is 1.
 
-[1, 3, 5]
-[2, 8, 3]
-[3, 4, 5]
+    [1, 3, 5]
+    [2, 8, 3]
+    [3, 4, 5]
 
 The route with the minimum effort would be 1 -> 2 -> 3 -> 4 -> 5.
 Overall, the difference between each node is only a maximum of 1.
